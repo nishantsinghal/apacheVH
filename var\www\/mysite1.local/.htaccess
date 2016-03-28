@@ -1,0 +1,2 @@
+Redirect /a1.html http://mysite1.local/a2.html
+Redirect /a3.html http://mysite2.local/b3.html
